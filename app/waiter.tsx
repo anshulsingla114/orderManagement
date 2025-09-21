@@ -178,6 +178,7 @@ const styles = StyleSheet.create({
     paddingVertical: 10,
     borderBottomWidth: 1,
     borderColor: "#ddd",
+    paddingTop:40,
   },
   header: { fontSize: 22, fontWeight: "bold" },
   logoutBtn: { padding: 8, backgroundColor: "#007bff", borderRadius: 5 },

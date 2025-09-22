@@ -11,7 +11,7 @@ It includes separate screens for **Waiter**, **Kitchen**, and **Firestore Test**
 - Hardcoded logins:
   - `waiter@test.com` → redirects to **Waiter Screen**
   - `kitchen@test.com` → redirects to **Kitchen Screen**
-  - `test@test.com` → redirects to **Firestore Test Screen**
+  - `testfirestore@test.com` → redirects to **Firestore Test Screen**
 
 ### 🧑‍🍳 Waiter Screen
 - View all active orders (pending/confirmed/sentToKitchen).
@@ -106,4 +106,4 @@ Waiter: waiter@test.com / 1234
 
 Kitchen: kitchen@test.com / 1234
 
-Firestore Test: test@test.com / 1234
+Firestore Test: testfirestore@test.com / 1234
